@@ -18,6 +18,8 @@ LinkedIn
 ## Contributors:  
 Todd Murdoch  
 
-
 ## License:  
 MIT
+
+## Graphic Designs  
+Shay Daniel  
