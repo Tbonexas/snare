@@ -1,7 +1,6 @@
 # Snare: Peer to Peer Music Hosting.   
 ## Description:  
-A React.js App that allows the users to host their space for a member to use for practice, studio, or gig times.   
-( CURRENTLY WORKING ON THE LOCAL APP. I HAVE NOT UPLOADED ANYTHING UNTIL I FINISH A FEW MORE NEW FEATURES )   
+A React.js App that allows the users to rent their space to others within their community. 
 
 ## Demo:  
 upload when functional
@@ -21,5 +20,4 @@ Todd Murdoch
 ## License:  
 MIT
 
-## Graphic Designs  
-Shay Daniel  
+
