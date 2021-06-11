@@ -10,12 +10,12 @@ const Header = (props) => {
     <header className="header">
         <nav className="headerMenu">
             <a href="#">Home </a>
-            <a href="#">My Blogs </a>
+            <a href="#">Blogs </a>
             <a href="#">Post </a>
             <a href="#">Listings </a>
         </nav>
         <div>
-            Icon Links
+            Social media Icons here 
         </div>
     </header>
    )
