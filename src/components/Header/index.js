@@ -12,10 +12,10 @@ const Header = (props) => {
             <a href="#">Home </a>
             <a href="#">Blogs </a>
             <a href="#">Post </a>
-            <a href="#">Listings </a>
+            <a href="#">Sign Up</a>
         </nav>
         <div>
-            Social media Icons here 
+            Social Media Placeholders
         </div>
     </header>
    )
