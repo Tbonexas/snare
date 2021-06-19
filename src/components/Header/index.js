@@ -1,21 +1,18 @@
 import React from 'react'
 import './style.css'
-/**
-* @author
-* @function Header
-**/
+
 
 const Header = (props) => {
   return(
     <header className="header">
         <nav className="headerMenu">
             <a href="#">Home </a>
-            <a href="#">Blogs </a>
-            <a href="#">Post </a>
-            <a href="#">Sign Up</a>
+            <a href="#">Search </a>
+            <a href="#">Blog </a>
+            <a href="#">Products </a>
         </nav>
         <div>
-            Social Media Placeholders
+            Sign Up
         </div>
     </header>
    )
