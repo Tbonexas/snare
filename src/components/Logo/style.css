@@ -1,0 +1,10 @@
+.logo {
+    text-align: center;
+}
+
+.logo a{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+}
