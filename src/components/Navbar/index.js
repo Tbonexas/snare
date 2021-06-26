@@ -1,5 +1,6 @@
 import React from 'react';
 import './style.css';
+import search from '../../assets/icons/search.png';
 
 /**
 * @author
@@ -17,7 +18,7 @@ const Navbar = (props) => {
         </ul>
         <div>
             <input />
-            <img src={require('../../assets/icons/searchbtn.png')} alt='Search' />
+            <img src={search} alt='Search' />
         </div>
     </div>
    )
