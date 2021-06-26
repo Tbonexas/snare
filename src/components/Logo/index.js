@@ -5,7 +5,7 @@ import './style.css';
 const Logo = (props) => {
   return(
     <div className="logo">
-        <a href="#">Todd Wayment</a>
+        <a href="#">Logo Placeholder</a>
     </div>
    )
 

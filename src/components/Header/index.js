@@ -7,12 +7,12 @@ const Header = (props) => {
     <header className="header">
         <nav className="headerMenu">
             <a href="#">Home </a>
-            <a href="#">Search </a>
-            <a href="#">Blog </a>
-            <a href="#">About Us </a>
+            <a href="#">Public Listings </a>
+            <a href="#">Blogs </a>
+            <a href="#">Contact Us </a>
         </nav>
         <div>
-            Sign Up
+            Social Media Icon Placeholders
         </div>
     </header>
    )
